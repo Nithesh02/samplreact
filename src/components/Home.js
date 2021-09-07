@@ -7,7 +7,7 @@ import react1 from "../assets/react2.png";
 import node1 from "../assets/node.png";
 
 
-import { Button,Col, Container, Row } from "react-bootstrap";
+
 import "../App.css";
 
 function HeroSection(){
